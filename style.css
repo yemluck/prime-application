@@ -1,16 +1,17 @@
 body {
-  background-image: url("https://thumbs.dreamstime.com/b/white-wood-wall-texture-background-panels-graphic-resources-149622903.jpg");
+  background-image: url("https://i.pinimg.com/originals/52/e3/3b/52e33bda584a90b0f5a7afd61656e67c.jpg");
   color: #ddddd;
   font-family: Arial, Helvetica, sans-serif;
   margin: 5% 5%
 }
 
 img {
-  width: 10%;
+  width: 22%;
   border-radius: 75%;
-  position: absolute;
-  left: 1300px;
-  top: 78px    
+  vertical-align: baseline;
+  float: right;
+  z-index: -1;
+  filter: grayscale(100%)
 }
 
 h1 {
