@@ -1,10 +1,21 @@
 body {
-  background-color: #555555;
-  color: #dddddd;
+  background-image: url("https://thumbs.dreamstime.com/b/white-wood-wall-texture-background-panels-graphic-resources-149622903.jpg");
+  color: #ddddd;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 7% 7%;
+  margin: 5% 5%
 }
 
+img {
+  width: 20%;
+  border-radius: 75%;
+  position: absolute;
+  left: 400px;
+  top: 78px    
+}
+
+h1 {
+  border-bottom: 2px solid
+}
 .work-experience {
   text-align: center;
   text-transform: uppercase;
